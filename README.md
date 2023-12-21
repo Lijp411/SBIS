@@ -8,7 +8,7 @@
 
 ## Dataset Download
 
-  We provide the SYSU-3DINS Dataset to address the current absence of benchmark datasets for building instance extraction. This dataset was acquired by a dual-channel airborne LiDAR, ADS40, which provides denser points specifically on the building façades. With well-annotated building instance labels, the SYSU-3DINS datasets encompasses nearly 7,000 buildings of various types within an area of 9.6 square kilometre. The SYSU-3DINS dataset is organised in a well-structured manner and contains two parts. The first part is the original version of the dataset, that contains point clouds with building instance ID annotations for eight representative regions. The second part is the finely labelled version of the dataset, that adds the fine-grained attribute annotations of the buildings (e.g., roof type, height and coverage, etc.).
+  We provide the SYSU-3DINS Dataset to address the current absence of benchmark datasets for building instance extraction. The SYSU-3DINS Dataset encompasses nearly 7,000 buildings of various types within an area of 9.6 square kilometre, which is organised in a well-structured manner and contains two parts. The first part is the original version of the dataset, that contains point clouds with building instance ID annotations for eight representative regions. The second part is the finely labelled version of the dataset, that adds the fine-grained attribute annotations of the buildings (e.g., roof type, height and coverage, etc.).
 
 ## Building Semantic Segmentation
 
