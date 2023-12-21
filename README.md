@@ -20,4 +20,4 @@
 
 ## Contact us
 
-  For any questions,please contact us via lijp57@mail2.sysu.edu.cn or hejun36@mail2.sysu.edu.cn.
+  For any questions,please contact us via lijp57@mail2.sysu.edu.cn.
